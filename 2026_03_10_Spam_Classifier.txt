@@ -1,0 +1,4 @@
+Spam detection system:
+Features: keywords, sender, links
+Data: Emails labeled spam/ham
+Mistakes: False positive, false negative

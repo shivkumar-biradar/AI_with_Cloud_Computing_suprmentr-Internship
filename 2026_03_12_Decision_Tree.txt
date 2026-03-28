@@ -1,0 +1,5 @@
+'''Decision tree example:
+Predict if you play outside:
+Weather -> Sunny/Rainy
+Temperature -> Hot/Cold
+Decision -> Play / Don't Play'''

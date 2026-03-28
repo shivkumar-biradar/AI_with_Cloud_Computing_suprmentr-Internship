@@ -1,0 +1,3 @@
+Collect 20 messy sentences
+Identify slang, emojis, typos
+Explain preprocessing: remove punctuation, lowercase, remove stopwords

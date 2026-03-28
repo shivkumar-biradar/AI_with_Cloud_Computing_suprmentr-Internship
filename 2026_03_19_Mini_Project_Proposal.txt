@@ -1,0 +1,4 @@
+Problem: Predict house prices
+Dataset: House sizes, prices
+Algorithm: Linear Regression
+Expected Output: Price prediction for new houses

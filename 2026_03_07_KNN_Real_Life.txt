@@ -1,0 +1,4 @@
+Netflix Recommendation Example using KNN:
+Users with similar ratings are grouped
+Movies liked by similar users are recommended
+Small example: User A: [5,4,0], User B: [4,5,0] → similar → recommend movies

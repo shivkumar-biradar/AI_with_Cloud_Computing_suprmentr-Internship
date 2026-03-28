@@ -1,0 +1,4 @@
+ML problem ideas:
+1. College - Predict student scores (input: study hours → output: marks)
+2. Healthcare - Diagnose disease from symptoms
+3. Shopping - Recommend products based on past purchases

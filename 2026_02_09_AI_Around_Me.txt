@@ -1,0 +1,11 @@
+10 real-life AI applications:
+1. Google Search - predicts query results
+2. YouTube Recommendations - ML recommends videos
+3. Netflix - suggests movies using KNN
+4. Facebook Feed - prioritizes posts
+5. Voice Assistants - recognize speech
+6. Email Spam Filter - detects spam
+7. Online Shopping - product suggestions
+8. GPS Navigation - predicts traffic
+9. Smart Keyboard - predicts words
+10. Fraud Detection - identifies unusual transactions

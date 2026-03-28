@@ -1,0 +1,5 @@
+Create dataset: Study Hours vs Marks
+Features: Study hours
+Labels: Marks
+Use: Predict marks based on study hours
+
