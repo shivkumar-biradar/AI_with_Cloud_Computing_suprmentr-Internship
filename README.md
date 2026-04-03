@@ -50,6 +50,6 @@ The repository includes `.py` files for programming tasks and `.txt` files for e
 ## Contact
 
 **Shivkumar Biradar**  
-GitHub: https://github.com/shivkumar-biradar 
-Email: shiv.biradar272003@gmail.com 
+GitHub: https://github.com/shivkumar-biradar
+Email: shiv.biradar272003@gmail.com
 Year: 2026
