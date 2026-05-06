@@ -35,7 +35,11 @@ The repository includes `.py` files for programming tasks and `.txt` files for e
 - 2026_03_26_Movie_Review_Analyzer.py - python programfor movie review
 - 2026_03_27_Semantic_Meaning.txt - text of semantic mean
 - 2026_03_28_Break_the_AI.txt - text of break the ai
-- 2026_03_30_Prompt_Engineer.txt -text of prompt engineer
+- 2026_03_30_Prompt_Engineer.txt - text of prompt engineer
+- 2026_04_03_nlp_mini_app.py - nlp breakdown
+- 2026_04_06_image_as_numbers.py - python image as no
+- 2026_04_08_image_filter_lab.py - python for image filter
+- 2026_04_11_detection_brainstorm.txt - txt of brainstorm
 
 ---
 
