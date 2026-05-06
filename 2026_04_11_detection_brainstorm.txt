@@ -1,0 +1,26 @@
+5 Uses of Object Detection:
+
+1. Face recognition (mobile unlock)
+2. Self-driving cars (detect vehicles)
+3. CCTV security (detect intruders)
+4. Attendance system (face detection)
+5. Medical imaging (detect diseases)
+
+Designed Solution: Smart Attendance System
+
+Problem:
+Manual attendance takes time.
+
+Solution:
+Use face detection to automatically mark attendance.
+
+Steps:
+1. Capture image
+2. Detect face
+3. Match with stored data
+4. Mark attendance
+
+Benefits:
+- Saves time
+- Accurate
+- No manual work
